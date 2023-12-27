@@ -14,6 +14,7 @@
 ## 📫 How to reach me 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naufil-asar)
+[![Gmail](https://img.shields.io/badge/Gmail-%23C71610.svg?logo=gmail&logoColor=white)](naufilasar.dev@gmail.com)
 
 # 💻 Tech Stack:
 
