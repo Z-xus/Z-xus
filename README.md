@@ -7,8 +7,7 @@
   ⚓ I have worked in Indian Navy as a Jr. Software Engineer 
 </p>
 
-## 📫 Socials 👇
-
+### 📫 Socials 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naufil-asar)
 [![Gmail](https://img.shields.io/badge/Gmail-%23C71610.svg?logo=gmail&logoColor=white)](naufilasar.dev@gmail.com)
 
