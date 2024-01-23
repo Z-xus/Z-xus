@@ -1,15 +1,11 @@
-### <img src="/assets/Developer.gif" alt="developer gif"  height="45px"> About Me:
+### About Me:
 <p>
-  Hi, I'm Naufil Asar, Computer Sci. Engineer from India.
-  <br>
+  Hi, I'm Naufil Asar, Computer Sci. Engineer.
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Sardar Patel Institute of Technology, Mumbai 
   <br>
-  💻 I love programming and always hungry to learn anything about it 😊
-  <br>
   ⚓ I have worked in Indian Navy as a Jr. Software Engineer 
 </p>
-<hr>
 
 ## 📫 Socials 👇
 
