@@ -2,11 +2,15 @@
 
 ### About Me 👨‍💻
 <p>
-  Hi, I'm Naufil Asar, Computer Sci. Engineer.
+  Hi, I'm Naufil Asar, Computer Science Engineer.
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Sardar Patel Institute of Technology, Mumbai 
   <br>
   ⚓ I have worked in Indian Navy as a Jr. Software Engineer 
+  <br>
+  🐧 I love Arch linux and NeoVim. I personalize my setup to make it more productive
+  <br>
+  📚 I'm looking to collaborate on Open Source Projects
 </p>
 
 ### 📫 Socials 👇
