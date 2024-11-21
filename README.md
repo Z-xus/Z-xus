@@ -17,8 +17,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufilasar.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithubusername)
 
----
-
 ## 🔧 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -28,14 +26,12 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
 
 ## 💼 Experience
 
 - **Indian Navy** - Jr. Software Engineer
   - Developed and maintained mission-critical software systems
   - Collaborated with cross-functional teams to improve operational efficiency
----
 
 <!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Z-xus&show_icons=true&theme=dark" alt="GitHub Stats" />
