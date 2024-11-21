@@ -10,27 +10,6 @@
 - 🛠️ Always customizing my setup for maximum productivity
 - 📚 Passionate about contributing to Open Source Projects
 
-## 🔧 Technologies & Tools
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-## 🌱 Currently Learning
-
-- Advanced Data Structures and Algorithms
-- Cloud Computing
-- DevOps practices
-- Web Development
-
-## 💼 Experience
-
-- **Indian Navy** - Jr. Software Engineer
-  - Developed and maintained mission-critical software systems
-  - Collaborated with cross-functional teams to improve operational efficiency
 
 ## 📫 Socials 👇
 
@@ -40,9 +19,27 @@
 
 ---
 
-<p align="center">
+## 🔧 Technologies & Tools
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## 💼 Experience
+
+- **Indian Navy** - Jr. Software Engineer
+  - Developed and maintained mission-critical software systems
+  - Collaborated with cross-functional teams to improve operational efficiency
+---
+
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Z-xus&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z-xus&theme=dark" alt="GitHub Streak" />
